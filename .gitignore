@@ -7,6 +7,19 @@
 *.fls
 *.out
 *.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.rubbercache
+rubber.cache
 
 ## Intermediate documents:
 *.dvi
