@@ -19,9 +19,3 @@ Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [posquit0](https://github.com/posquit0)
 - [OJFord](https://github.com/OJFord)
 
-
-<!---------------------------------------------------------------------------->
-[Resume]: 
-[ResumeLink]: 
-[CVLink]: 
-[CV]: 
