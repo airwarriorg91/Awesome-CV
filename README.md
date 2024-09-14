@@ -8,10 +8,10 @@
   Awesome CV and Resume of Gaurav Gupta.
 </p>
 
-<p align="center">
+<br>
   [![Resume]][ResumeLink]
   [![CV]][CVLink]
-</p>
+<br>
 
 
 ## Credit
