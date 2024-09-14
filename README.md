@@ -10,10 +10,11 @@
 
 <p align="center">
   <a href="cv.pdf">
-    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" width="150" height="50">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="40" style="margin-right: 20px;">
   </a>
+
   <a href="resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" width="150" height="50">
+    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="40" style="margin-left: 20px;">
   </a>
 </p>
 
