@@ -10,18 +10,13 @@
 
 <p align="center">
   <a href="cv.pdf">
-    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="40" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV" height="30" style="margin-right: 40px;">
   </a>
 
   <a href="resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="40" style="margin-left: 20px;">
+    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="30" style="margin-left: 40px;">
   </a>
 </p>
 
 
-
-### Credit
 Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
-- [posquit0](https://github.com/posquit0)
-- [OJFord](https://github.com/OJFord)
-
