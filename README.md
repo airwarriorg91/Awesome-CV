@@ -9,9 +9,14 @@
 </p>
 
 <p align="center">
-  [![CV](https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4)](cv.pdf)
-  [![Resume](https://img.shields.io/badge/Resume-EF2D5E)](resume.pdf)
+  <a href="cv.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4" alt="CV">
+  </a>
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume">
+  </a>
 </p>
+
 
 
 ## Credit
