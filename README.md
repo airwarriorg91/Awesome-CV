@@ -17,10 +17,3 @@
     <img src="https://img.shields.io/badge/Resume-EF2D5E" alt="Resume" height="30" style="margin-left: 40px;">
   </a>
 </p>
-
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Credit-ECCBD9" alt="Credit">
-  : <a href="https://github.com/posquit0/Awesome-CV">Awesome-CV</a>
-  <br>
-</p>
