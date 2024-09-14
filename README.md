@@ -19,5 +19,5 @@
 </p>
 
 <br>
-![Credit](https://img.shields.io/badge/Credit-ECCBD9): [Awesome-CV](https://github.com/posquit0/Awesome-CV)
+![Credit](https://img.shields.io/badge/Credit-ECCBD9) : [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 <br>
