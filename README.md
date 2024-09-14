@@ -9,16 +9,17 @@
 </p>
 
 <p align="center">
-  [![Resume]][https://github.com/airwarriorg91/Awesome-CV/blob/master/resume.pdf]
-  [![CV]][https://github.com/airwarriorg91/Awesome-CV/blob/master/CV.pdf]
+  [![Resume]](https://github.com/airwarriorg91/Awesome-CV/blob/master/resume.pdf)
+  [![CV]](https://github.com/airwarriorg91/Awesome-CV/blob/master/CV.pdf)
 </p>
 
-<br>
-[Resume]: https://img.shields.io/badge/Resume-EF2D5E
-[CV]: https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4
-<br>
 
 ## Credit
 Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [posquit0](https://github.com/posquit0)
 - [OJFord](https://github.com/OJFord)
+
+
+<!---------------------------------------------------------------------------->
+[Resume]: https://img.shields.io/badge/Resume-EF2D5E
+[CV]: https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4
