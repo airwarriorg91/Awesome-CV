@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  [![Resume]][ResumeLInk]
+  [![Resume]][ResumeLink]
   [![CV]][CVLink]
 </p>
 
