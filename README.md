@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  CV and Resume of Gaurav Gupta. (Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)).
+  CV and Resume of Gaurav Gupta.
 </p>
 
 ## What is Awesome CV?
@@ -14,5 +14,6 @@
 
 
 ## Credit
+Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [posquit0](https://github.com/posquit0)
 - [OJFord](https://github.com/OJFord)
