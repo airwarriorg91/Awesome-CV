@@ -8,10 +8,10 @@
   Awesome CV and Resume of Gaurav Gupta.
 </p>
 
-<br>
-  [![Resume]][ResumeLink]
-  [![CV]][CVLink]
-<br>
+<p align="center">
+  [![CV](https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4)](cv.pdf)
+  [![Resume](https://img.shields.io/badge/Resume-EF2D5E)](resume.pdf)
+</p>
 
 
 ## Credit
@@ -21,7 +21,7 @@ Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 
 
 <!---------------------------------------------------------------------------->
-[Resume]: https://img.shields.io/badge/Resume-EF2D5E
-[ResumeLink]: resume.pdf
-[CVLink]: cv.pdf
-[CV]: https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4
+[Resume]: 
+[ResumeLink]: 
+[CVLink]: 
+[CV]: 
