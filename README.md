@@ -5,13 +5,18 @@
 </h1>
 
 <p align="center">
-  CV and Resume of Gaurav Gupta.
+  Awesome CV and Resume of Gaurav Gupta.
 </p>
 
-## What is Awesome CV?
+<p align="center">
+  [![Resume]][https://github.com/airwarriorg91/Awesome-CV/blob/master/resume.pdf]
+  [![CV]][https://github.com/airwarriorg91/Awesome-CV/blob/master/CV.pdf]
+</p>
 
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
-
+<br>
+[Resume]: https://img.shields.io/badge/Resume-EF2D5E
+[CV]: https://img.shields.io/badge/Curriculum%20Vitae-C7EAE4
+<br>
 
 ## Credit
 Forked from [Awesome-CV](https://github.com/posquit0/Awesome-CV)
