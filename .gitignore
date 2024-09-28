@@ -24,3 +24,7 @@ rubber.cache
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
+
+##Ignore Transcript files
+transcripts.pdf
+transcripts.tex
